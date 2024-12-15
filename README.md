@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">Je suis un developpeur blockchain en 2ème année à Epitech Lyon</h3>
+<h3 align="center">I'm a blockchain developer in my 3rd year at Epitech Lyon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandretimal&label=Profile%20views&color=0e75b6&style=flat" alt="alexandretimal" /> </p>
 
-- 🔭 Je travaille actuellement sur une copy de MetaMask exclusivement à but de formation personnelle ["PrettyMetaMask"](.)
-- ☕ Je travaille aussi sur un snippet pour crée une alternative à "Buy me a coffee" et avoir une possibilité de payement en crypto ["CoffeeChain"](.)
+- 🔭 I worked on a copy of MetaMask with a group of 3 from POC innovation. ["PrettyMetaMask"](.)
+- ⚒️ Big fan and practitioner of Node guardians.
 
 </br>
 </br>
