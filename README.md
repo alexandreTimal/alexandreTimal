@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandretimal&label=Profile%20views&color=0e75b6&style=flat" alt="alexandretimal" /> </p>
 
 - 🔭 I worked on a copy of MetaMask with a group of 3 from POC innovation. ["PrettyMetaMask"](.)
+- 📚 Completed all Rustlings and Rust Tour exercises and lessons.
 - ⚒️ Big fan and practitioner of Node guardians.
+- 🚀 Winner of the Alephium hackathon at CryptoXR.
 
 </br>
 </br>
