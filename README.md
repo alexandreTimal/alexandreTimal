@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">I'm a blockchain developer in my 3rd year at Epitech Lyon.</h3>
+<h3 align="center">I'm a Rust and blockchain developer in my 3rd year at Epitech Lyon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandretimal&label=Profile%20views&color=0e75b6&style=flat" alt="alexandretimal" /> </p>
 
